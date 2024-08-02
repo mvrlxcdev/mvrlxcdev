@@ -39,4 +39,4 @@
 
 ## Projects
 
-[test](https://github.com/mvrlxcdev/mvrlxcdev) - test
+[Weather](https://github.com/mvrlxcdev/weather) - Weather forecast app
