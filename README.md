@@ -21,11 +21,6 @@
 
 <div align='center'>
 
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/mvrlxc?theme=dark&font=Roboto)
-
-</div>
-<div align='center'>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvrlxcdev&theme=tokyonight&card_width=500)
 
 </div>
