@@ -34,7 +34,6 @@
 
 ## Projects
 
-<div align='center'>
-[Weather](https://github.com/mvrlxcdev/weather) - Weather forecast app
-[zmeumusic](https://github.com/mvrlxcdev/zmeumusic) - Music app.
-</div>
+[Weather](https://github.com/mvrlxcdev/weather) - Weather forecast app. 
+
+[Zmeumusic](https://github.com/mvrlxcdev/zmeumusic) - Music app.
